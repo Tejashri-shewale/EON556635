@@ -6,6 +6,10 @@ interface Engine
 	{
 		System.out.println(" Static Method ");
 	}
+
+	public void speed();
+
+	
 }
 
 public class StaticMethodEx 
